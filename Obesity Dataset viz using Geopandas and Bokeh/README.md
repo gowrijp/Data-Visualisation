@@ -8,4 +8,5 @@ green button 'Download Countries v4.1.0'
 - Geopandas can read almost any vector-based spatial data format including ESRI shapefile using read_file command which returns a GeoDataframe object.  
 - In order to incorporate data visualization interactivity, we will use Bokeh library. 
 Bokeh consumes GeoJSON format which represents geographical features with JSON. 
-GeoJSON describes points, lines and polygons (called Patches in Bokeh) as a collection of features.
+GeoJSON describes points, lines and polygons (called Patches in Bokeh) as a collection of features.  
+- https://towardsdatascience.com/a-complete-guide-to-an-interactive-geographical-map-using-python-f4c5197e23e0  
